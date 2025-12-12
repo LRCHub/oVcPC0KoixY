@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ええじゃないか",
+  "base_artist": "Dannie May",
+  "createdAt": "2025-12-12T12:37:41.258834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ええじゃないか",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_ええじゃないか_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ええじゃないか",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_ええじゃないか_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ええじゃないか (Cover ver.)",
+      "artist": "BABY BAND",
+      "has_synced": false,
+      "path": "select/03_ええじゃないか_(Cover_ver.)_BABY_BAND.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ええじゃないか",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_ええじゃないか_Dannie_May.txt"
+    }
+  ]
+}
